@@ -1,9 +1,5 @@
----
-description: add description for tesing gitbook synced function
----
-
 # README
-
+description: add description for tesing gitbook synced function
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
