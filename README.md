@@ -56,6 +56,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. James Monroe
 1. John Quincy Adams
 
+```mermaid
+graph TD;
+A --> B
+A --> C
+A --> D
+B --> C
+C --> F
+D --> F
+```
+
+
+
 ### Available Scripts
 
 In the project directory, you can run:
