@@ -8,12 +8,22 @@
 
 Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
+<details>
+<summary>My top languages</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
 |     2| Python    |
-|     3| SQL       
+|     3| SQL       |
 
+</details>
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
 
 
 description: add description for tesing gitbook synced function
