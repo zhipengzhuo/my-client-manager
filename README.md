@@ -52,6 +52,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 + Thomas
 * Lick
 
+2. James Madison
+2. James Monroe
+2. John Quincy Adams
+
 ### Available Scripts
 
 In the project directory, you can run:
